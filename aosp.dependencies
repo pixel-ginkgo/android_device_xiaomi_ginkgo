@@ -1,0 +1,26 @@
+[
+    {
+        "repository":   "pixel-ginkgo/kernel_xiaomi_ginkgo",
+        "target_path":  "kernel/xiaomi/ginkgo",
+        "branch":       "eleven",
+        "remote":       "github"
+    },
+    {
+        "repository":   "pixel-ginkgo/vendor_xiaomi_ginkgo",
+        "target_path":  "vendor/xiaomi/ginkgo",
+        "branch":       "eleven",
+        "remote":       "github"
+    },
+    {
+        "repository":   "pixel-ginkgo/hardware_qcom-caf_sm8150_display",
+        "target_path":  "hardware/qcom-caf/sm8150/display",
+        "branch":       "eleven",
+        "remote":       "github"
+    }
+    {
+        "repository":   "pixel-ginkgo/proprietary_vendor_qcom_sdclang",
+        "target_path":  "prebuilts/clang/host/linux-x86/clang-sdllvm",
+        "branch":       "eleven",
+        "remote":       "github"
+    }
+]
